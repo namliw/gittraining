@@ -4,6 +4,7 @@ An h1 header
 ============
 
 this is some new text
+make some changes
 
 
 Paragraphs are separated by a blank line.
